@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Jan 25 02:30:10 2021
-
 @author: monkey
 note: 关于每次操作之后数据的初始化没有考虑
 update: 2021-2-27 22:36
@@ -701,5 +700,4 @@ class zhihu:
 if __name__=="__main__":
     zh=zhihu()
     zh.interface()
-    #"xnn1rdzlgdys"
         
