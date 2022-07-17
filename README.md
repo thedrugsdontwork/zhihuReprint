@@ -1,3 +1,4 @@
+#！！！Attention,this project is deprecated！！！
 # zhihuReprint
 zhihu plugns which can provide you to use zhihu during work
 you should install module [exexjs,requests,BeautifulSoup,json,lxml ...] before running it .
